@@ -1,0 +1,24 @@
+{
+  "pages": [
+    {
+      "id": "免费培训",
+      "isDefault": true
+    }
+  ],
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "color": "#E3DEFF",
+  "icon": "product",
+  "unpublishedAppLayout": {
+    "type": "DESKTOP"
+  },
+  "publishedAppLayout": {
+    "type": "DESKTOP"
+  },
+  "evaluationVersion": 2,
+  "applicationVersion": 2,
+  "isManualUpdate": false,
+  "viewerLayout": "{\"color\":\"transparent\",\"logoUrl\":\"\",\"name\":\"玲珑安全\",\"treeData\":[{\"title\":\"免费培训\",\"pageId\":\"65ff0bc402f2017cc3d55497\",\"isPage\":true,\"icon\":\"arrow\"}],\"outsiderTree\":[]}",
+  "deleted": false
+}
